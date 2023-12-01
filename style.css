@@ -1,13 +1,13 @@
 :root{
-    --font-family-Titulo: font-family: 'Lilita One', sans-serif;
-    --font-family-corpo: font-family: 'Roboto', sans-serif;
+    --font-family-Titulo: 'Lilita One', sans-serif;
+    --font-family-corpo:  'Roboto', sans-serif;
     --cor_de_fundo: #FF0099;
     --cor-primaria: #FFFFFF;
     --cor-secundária:#FFBE56;
 }
 
 body{
-    background-color: var(--cor_de_fundo);
+    background-color: var(--cor);
     color: black;
     min-height: 100vh;
     display: flex;
@@ -15,5 +15,5 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: var(font-family-corpo);
+    font-family: var(--font-family-corpo);
 }
