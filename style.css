@@ -21,5 +21,6 @@ body{
 h1{
     font-size: 4em;
     font-family: var(--font-family-Titulo);
-    
+    text-shadow: var(--cor-secundária);
+
 }
