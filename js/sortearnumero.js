@@ -1,4 +1,4 @@
-const menorValor = 1;
+const menorValor = 20;
 const maiorValor = 100;
 const numeroSecreto = gerarNumeroSecreto();
 
@@ -9,4 +9,4 @@ function gerarNumeroSecreto(){
 
 const elementoMenorValor = document.getElementById('menor-valor');
 
-console.log(elementoMenorValor);
+elementoMenorValor.innerHTML(menorValor);
