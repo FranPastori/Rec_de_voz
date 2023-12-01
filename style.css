@@ -42,6 +42,7 @@ h3{
     font-family: var(--font-family-Titulo);
     color: var(--cor_de_fundo);
     padding: 20px;
+    margin: 20px;
     border-radius: 10px 40px 10px 40px;
 
 }
