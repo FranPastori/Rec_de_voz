@@ -9,5 +9,5 @@ window.SpeechRecognition =
  recognition.addEventListener('result',onSpeak);
 
  function onSpeak(e){
-    console.log(e);
+    console.log(e.results[0][0].transcript);
  }
