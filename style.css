@@ -40,5 +40,8 @@ h3{
     font-size: 3em;
     background-color: var(--cor-secundária);
     font-family: var(--font-family-Titulo);
-color: var(--cor_de_fundo);
+    color: var(--cor_de_fundo);
+    padding: 20px;
+    border-radius: 20px 30px 20px 30px;
+
 }
