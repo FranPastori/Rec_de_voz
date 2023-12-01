@@ -5,3 +5,9 @@ window.SpeechRecognition =
 
  recognition.lang = 'pt-Br';
  recognition.start();
+
+ recognition.addEventListener('result',onSpeak);
+
+ function onSpeak(e){
+    console.log(e);
+ }
