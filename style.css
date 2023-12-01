@@ -35,9 +35,10 @@ h3{
 }
 
 .box{
-    border: 2px  solid black;
+    border: 2px  solid var(--cor_de_fundo);
     display: inline-block;
     font-size: 3em;
     background-color: var(--cor-secundária);
-
+    font-family: var(--font-family-Titulo);
+color: var(--cor_de_fundo);
 }
