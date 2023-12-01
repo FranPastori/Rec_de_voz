@@ -1,8 +1,8 @@
 :root{
     --font-family-Titulo: font-family: 'Lilita One', sans-serif;
     --font-family-corpo: font-family: 'Roboto', sans-serif;
-    --cor_de_fundo: #FFFFFF;
-    --cor-primaria:  #FF0099;
+    --cor_de_fundo: #FF0099;
+    --cor-primaria: #FFFFFF;
     --cor-secundária:#FFBE56;
 }
 
