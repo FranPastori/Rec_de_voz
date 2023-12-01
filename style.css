@@ -17,3 +17,9 @@ body{
     text-align: center;
     font-family: var(--font-family-corpo);
 }
+
+h1{
+    font-size: 4em;
+    font-family: var(--font-family-Titulo);
+    
+}
