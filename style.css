@@ -1,0 +1,11 @@
+:root{
+    --font-family-Titulo: font-family: 'Lilita One', sans-serif;
+    --font-family-corpo: font-family: 'Roboto', sans-serif;
+    --cor_de_fundo: #FFFFFF;
+    --cor-primaria:  #FF0099;
+    --cor-secundária:#FFBE56;
+}
+
+body{
+    background-color: url(--cor_de_fundo);
+}
