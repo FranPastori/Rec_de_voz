@@ -1,0 +1,1 @@
+//const numeroSecreto = parseInt(math)
