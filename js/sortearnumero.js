@@ -9,4 +9,4 @@ function gerarNumeroSecreto(){
 
 const elementoMenorValor = document.getElementById('menor-valor');
 
-elementoMenorValor.innerHTML(menorValor);
+elementoMenorValor.innerHTML = menorValor;
