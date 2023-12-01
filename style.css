@@ -21,6 +21,14 @@ body{
 h1{
     font-size: 4em;
     font-family: var(--font-family-Titulo);
-    text-shadow: var(--cor-secundária);
 
+}
+h3{
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.mensagem{
+    font-size: 1.5em;
+    margin-top: 20px;
 }
