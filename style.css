@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: var(--cor);
+    background-color: var(--cor_de_fundo);
     color: black;
     min-height: 100vh;
     display: flex;
